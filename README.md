@@ -56,12 +56,6 @@ https://yourusername.github.io/street-sweep-pro/
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots here)
-
----
-
 # 🌆 Street Sweep Pro
 
 A browser-based street cleaning game controlled using AI hand gestures.
