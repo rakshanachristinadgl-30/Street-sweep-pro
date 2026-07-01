@@ -51,7 +51,7 @@ A browser-based street cleaning game controlled using AI hand gestures.
 
 Play here:
 
-street-sweep-pro-a254.vercel.app
+https://street-sweep-pro-a254.vercel.app
 
 ---
 
