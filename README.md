@@ -47,6 +47,13 @@ A browser-based street cleaning game controlled using AI hand gestures.
 6. Reach the finish line with the highest score
 
 ---
+## 🚀 Live Demo
+
+Play here:
+
+street-sweep-pro-a254.vercel.app
+
+---
 
 ## 💡 Future Improvements
 
