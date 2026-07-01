@@ -44,15 +44,7 @@ A browser-based street cleaning game controlled using AI hand gestures.
 3. Pick up litter.
 4. Move to the recycling bin.
 5. Drop the trash.
-6. Reach the finish line with the highest score.
-
----
-
-## 🚀 Live Demo
-
-Play here:
-
-https://yourusername.github.io/street-sweep-pro/
+6. Reach the finish line with the highest score
 
 ---
 
